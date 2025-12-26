@@ -1,0 +1,8 @@
+This is a sample file.
+It contains names of some fruits.
+Jackfruit is the national fruit.
+Jackfruit is the national fruit. Bangladesh
+There are many fruits in Bangladesh.
+It can be found in summer.
+Sort the file.
+Replace "Jackfruit" by "Jackfruit".

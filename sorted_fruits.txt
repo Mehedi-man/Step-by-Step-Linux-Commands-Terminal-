@@ -1,0 +1,8 @@
+It can be found in summer.
+It contains names of some fruits.
+Mango is the national fruit.
+Mango is the national fruit. Bangladesh
+Replace "Mango" by "Jackfruit".
+Sort the file.
+There are many fruits in Bangladesh.
+This is a sample file.
